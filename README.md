@@ -1,10 +1,3 @@
----
-title: "Discord Bot Engine"
-description: "Engine for easy creation and management of Discord bots with simple slash command implementation"
-publishDate: "12 Jun 2023"
-updatedDate: "12 Jun 2023"
-tags: ["Node.js", "Discord Bot", "Slash Commands"]
----
 The purpose of this project is to create an engine for easy creation and management of Discord bots, with straightforward implementation of slash commands.
 
 ### Project Benefits
